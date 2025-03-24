@@ -1,0 +1,14 @@
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\bin\Debug\net9.0\Teste de mesa - 1.exe
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\bin\Debug\net9.0\Teste de mesa - 1.deps.json
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\bin\Debug\net9.0\Teste de mesa - 1.runtimeconfig.json
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\bin\Debug\net9.0\Teste de mesa - 1.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\bin\Debug\net9.0\Teste de mesa - 1.pdb
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.AssemblyInfoInputs.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.AssemblyInfo.cs
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.csproj.CoreCompileInputs.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\refint\Teste de mesa - 1.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.pdb
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\Teste de mesa - 1.genruntimeconfig.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\Prova BNE\Teste de mesa - 1\obj\Debug\net9.0\ref\Teste de mesa - 1.dll
